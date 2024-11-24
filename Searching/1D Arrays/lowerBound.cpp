@@ -39,6 +39,7 @@ int lowerBound1(vector<int> a, int x)
             left = mid + 1;
         }
     }
+    return ans;
 }
 
 int main()
