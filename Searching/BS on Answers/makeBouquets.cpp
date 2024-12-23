@@ -54,7 +54,6 @@ int roseGarden(vector<int> arr, int k, int m)
     }
     return -1;
 }
-
 /*
  ? Time Complexity: O(N * log(max(arr[])-min(arr[])+1))
 */
